@@ -4,6 +4,7 @@
 class Calculator {
 public:
     int add(int a, int b);
+    int subract(int a, int b);
 };
 
 #endif // CALCULATOR_H
